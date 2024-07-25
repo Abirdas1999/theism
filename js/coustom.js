@@ -1,0 +1,13 @@
+document.getElementById("num5").style.display = "none";
+document.getElementById("num6").style.display = "none";
+document.getElementById("num7").style.display = "none";
+document.getElementById("num8").style.display = "none";
+document.getElementById("num9").style.display = "none";
+document.getElementById("num10").style.display = "none";
+document.getElementById("num11").style.display = "none";
+document.getElementById("num12").style.display = "none";
+document.getElementById("num13").style.display = "none";
+document.getElementById("num14").style.display = "none";
+document.getElementById("num15").style.display = "none";
+document.getElementById("num16").style.display = "none";
+// document.getElementById("num17").style.display = "none";
